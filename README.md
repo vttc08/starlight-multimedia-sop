@@ -1,7 +1,7 @@
-English Version: [README.md](README.md)
-中文版: [README.zh.md](README.zh.md)
-Jian Ti Zhong Wen Ban: [README.jt.md](README.jt.md)
-Francias Version: [README.fr.md](README.fr.md)
+English Version: [README.md](README.md) |
+中文版: [README.zh-CN.md](README.zh-CN.md) |
+繁體版: [README.zh-TW.md](README.zh-TW.md) | 
+Francais Version: [README.fr.md](README.fr.md)
 
 The objective of this comprehensive standard operating procedure (SOP) is to provide in-depth guidance and training to Starlight tech team members on the effective utilization of multimedia processing tools, including Canva, VLC, and QuickTime. This SOP is specifically designed to equip new members of the Starlight tech team with the necessary knowledge and skills to proficiently organize, create, and process multimedia assets for Starlight's online platforms. By following this SOP, team members will gain a solid foundation in multimedia processing, enabling them to enhance the quality and impact of Starlight's online presence.
 
