@@ -1,7 +1,7 @@
 English Version: [README.md](README.md) |
 中文版: [README.zh-CN.md](README.zh-CN.md) |
 繁體版: [README.zh-TW.md](README.zh-TW.md) | 
-Francais Version: [README.fr.md](README.fr.md)
+Francais Version: [README.French.md](README.French.md)
 
 The objective of this comprehensive standard operating procedure (SOP) is to provide in-depth guidance and training to Starlight tech team members on the effective utilization of multimedia processing tools, including Canva, VLC, and QuickTime. This SOP is specifically designed to equip new members of the Starlight tech team with the necessary knowledge and skills to proficiently organize, create, and process multimedia assets for Starlight's online platforms. By following this SOP, team members will gain a solid foundation in multimedia processing, enabling them to enhance the quality and impact of Starlight's online presence.
 
@@ -27,7 +27,7 @@ The computer hardware and peripherals utilized by Starlight are based on the Mac
 
 ### Appendix 1.1 - Taking a Screenshot
 
-To take a screenshot, press Command + 3. It will save the screenshot in your desktop folder, which is located at ~/Desktop or the full name of /User/Starlight/Desktop.
+To take a screenshot, press Command + Shift + 3. It will save the screenshot in your desktop folder, which is located at ~/Desktop or the full name of /User/Starlight/Desktop.
 
 ### Appendix 1.2 - Spotlight
 Spotlight is a powerful search tool available on MacOS that enables users to quickly locate files, folders, and applications. To access Spotlight, simply press the Command + Space key combination. This convenient feature is particularly useful for troubleshooting audio issues by accessing the Audio settings. 
@@ -42,15 +42,17 @@ Starlight livestream records the entire livestream session and saves it as a vid
 
 ### Merging in QuickTime
 
-In the case where we have recording problems and we have multiple video files, we need to merge them together. To merge them together, open QuickTime and click Edit > Add clips to end.Then, select all the video files you want to merge. After you are done, click File > Export As and give a name to the video.
+In the case where we have recording problems and we have multiple video files, we need to merge them together. To merge them together, open QuickTime and click Edit > Add clips to end. Then, select all the video files you want to merge. After you are done, click File > Export As and give a name to the video.
 
-`There are no images yet, I will update the image instruction once I have access to church Mac.`
+![](assets/2024-01-21-20-03-49.png)
 
 ### Trimming in QuickTime
 
-To trim a video in QuickTime, open the video file in QuickTime. Preview the video and take note of the timestamp, you can note down the timestamp in the Apple default Notes app. Use Command + Enter to search for Notes app. Then, click Edit > Trim. You can drag the yellow bar to trim the video. After you are done, click Trim. Then, click File > Export and give a name to the video. 
+To trim a video in QuickTime, open the video file in QuickTime. Preview the video and take note of the timestamp, you can note down the timestamp in the Apple default Notes app. Use Command + Enter to search for Notes app. Then, click Edit > Trim. You can drag the yellow bar to trim the video. After you are done, click Trim. Then, click File > Export As > 1080p and give a name to the video. 
 
-`There are no images yet, I will update the image instruction once I have access to church Mac.`
+![](assets/2024-01-21-20-04-41.png)
+
+![](assets/2024-01-21-20-05-17.png)
 
 ### Fixing Mono Audio in VLC
 
@@ -95,7 +97,9 @@ The editable field are highlighted in red. To edit the text, double click the te
 
 `Speaker`
 
-These are the bare minimum information we need to include in the thumbnail. There are more advanced customization I will show in the next example.
+These are the bare minimum information we need to include in the thumbnail. There are more advanced customization shown at [Advanced Thumbnail Creation](#advanced-thumbnail-creation). After you are done, click Share > Download > JPG, under select pages, choose Current Page. Then click Download. 
+
+![](assets/2024-01-21-20-12-17.png)
 
 ## Uploading to YouTube
 
