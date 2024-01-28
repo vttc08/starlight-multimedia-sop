@@ -111,6 +111,10 @@ This is the YouTube upload window. I have already setup the default title templa
 
 ![](assets/2024-01-21-00-56-42.png)
 
+After clicking publish, the video will begin upload, however, make sure to not close the browser tab until the upload is complete. If you close the browser tab, the upload will be cancelled. You can close the browser only when upload complete is shown.
+
+![](assets/2024-01-27-20-09-17.png)
+
 ## Advanced Thumbnail Creation
 
 ![](assets/2024-01-21-00-34-24.png)
