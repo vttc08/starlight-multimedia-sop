@@ -132,7 +132,3 @@ Here is an example that violates the color scheme and the topic of the sermon. T
 ![](assets/2024-01-21-00-45-34.png)
 
 In this template, I have added a cutout image of the speaker. This is done using the built-in Canva background remover. To use the background remover, click on the image > Edit Photo > BG Remover. Canva will automatically process the image. To can choose an image by going through the sermon recording and screenshot a good image. Refer to [Appendix 1.1 - Taking a Screenshot](#appendix-11---taking-a-screenshot) for instructions on how to take a screenshot.
-
-
-
-
